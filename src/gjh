@@ -1,0 +1,44 @@
+a e e 1
+b c e 1
+c i h 0
+d h a 1
+e i f 0
+f e g 0
+g h b 1
+h c d 0
+i f b 1
+
+
+a h c 1 0
+b c d 0 1
+c h b 0 0
+d f h 0 0
+e c f 0 1
+f f g 0 0 
+g g c 1 0
+h a c 1 0
+
+
+a b i c g 0
+b b c f g 0
+c h d d f 1
+d h c e g 1
+e b c i g 0
+f f i i k 0
+g j k g h 0
+h e f c g 0
+i i i i d 0
+j b f c g 0
+k a c e g 1
+
+
+
+
+a h c 1 0
+b a c 1 0
+c h b 1 0
+d f a 0 0
+e a f 1 0
+f f g 0 0
+g f c 1 0
+h b b 1 0
