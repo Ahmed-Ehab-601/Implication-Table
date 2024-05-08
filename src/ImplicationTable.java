@@ -76,6 +76,7 @@ public class ImplicationTable{
                 State two = states[i];
                 if(one.output.equals(two.output)){
                     Conditions c = new Conditions(0);
+                    conditions[i][j] = c;
                     for(int k = 0;k<noNextStates;k++){
                         if(!one.nextStates[k].equals(two.nextStates[k])){
                             String cond = one.nextStates[k]+two.nextStates[k];
