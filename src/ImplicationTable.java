@@ -4,6 +4,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.Scanner;
 import java.awt.Point;
+// to run the main is in  app.java
 
 public class ImplicationTable{
     int noStates;

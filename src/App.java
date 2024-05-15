@@ -8,7 +8,7 @@ import java.awt.*;
          
      
  */
-public class AppTest {
+public class App {
     public static void main(String[] args) {
         ImplicationTable t = new ImplicationTable();
         t.Reduce();
