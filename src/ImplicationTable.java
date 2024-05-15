@@ -235,6 +235,7 @@ public class ImplicationTable{
         }
     }
     public void print(){
+        System.out.println();
         for(State s : Final){
             System.out.print(s.name+" | ");
             for(String name : s.nextStates){
@@ -253,6 +254,8 @@ public class ImplicationTable{
             
             
         }
+        System.out.println();
+
     }
     public void Reduce(){
         scanner();
